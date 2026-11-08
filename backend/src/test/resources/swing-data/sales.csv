@@ -1,0 +1,4 @@
+saleId,datetime,cashier,payment,discountPercent,taxRate,tendered,voided,voidedBy,voidedAt,productId,productName,category,unitPrice,unitCost,quantity
+1,2026-01-03T10:00:00,legacycashier,CASH,10.0,5.0,2000.00,false,,,1,Organic Apple,Fruits,120.00,80.00,10
+1,2026-01-03T10:00:00,legacycashier,CASH,10.0,5.0,2000.00,false,,,2,"Milk, Full Cream 1L",Dairy,250.00,200.00,2
+2,2026-01-04T11:30:00,legacycashier,CARD,0.0,5.0,0.00,true,legacyowner,2026-01-04T12:00:00,1,Organic Apple,Fruits,120.00,80.00,1

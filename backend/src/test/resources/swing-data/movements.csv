@@ -1,0 +1,4 @@
+id,datetime,productId,productName,type,change,balance,user,note
+1,2026-01-02T09:10:00,1,Organic Apple,INITIAL,60,60,legacyowner,Opening stock
+2,2026-01-03T10:00:00,1,Organic Apple,SALE,-10,50,legacycashier,GB-000001
+3,2026-01-03T10:00:00,99,Ghost,SALE,-1,0,legacycashier,orphan row

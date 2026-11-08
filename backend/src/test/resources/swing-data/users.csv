@@ -1,0 +1,3 @@
+id,username,fullName,role,passwordHash,active,createdAt,lastLogin
+1,legacyowner,Old Owner,MANAGER,dwr8v7heKTtc5uuz+B54Pw==$sSu03tJYIAmNmJYoaTI9VFcsUwKvYaBwuS9Uv/EzAyw=,true,2026-01-02T09:00:00,2026-03-01T08:30:00
+2,legacycashier,Old Cashier,ASSISTANT,dwr8v7heKTtc5uuz+B54Pw==$sSu03tJYIAmNmJYoaTI9VFcsUwKvYaBwuS9Uv/EzAyw=,true,2026-01-05T09:00:00,

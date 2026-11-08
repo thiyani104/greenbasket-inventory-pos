@@ -1,0 +1,5 @@
+id,name,category,supplier,price,cost,quantity,reorder,expiry
+1,Organic Apple,Fruits,Green Farms,120.00,80.00,50,10,
+2,"Milk, Full Cream 1L",Dairy,Dairy Co,250.00,200.00,20,20,2030-01-01
+3,Free Sample,Dairy,,0.00,0.00,5,1,
+4,organic apple,Fruits,,100.00,50.00,5,1,
